@@ -1,0 +1,5 @@
+{
+  "name": "scoutbet-tg-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para enviar mensagens do ScoutBet ao Telegram"
+}
